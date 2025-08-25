@@ -1,0 +1,5 @@
+{
+  "name": "Gaple Domino",
+  "description": "A classic Gaple (Domino) game for 2-4 players built with React and Tailwind CSS. Players aim to be the first to play all their tiles or have the lowest score in a blocked game.",
+  "requestFramePermissions": []
+}
